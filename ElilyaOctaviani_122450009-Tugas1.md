@@ -6,11 +6,15 @@
 | **Tanggal Terbit** | 19 November 2019                                                                     |
 | **DOI**            | [https://doi.org/10.1007/s00778-019-00588-3](https://doi.org/10.1007/s00778-019-00588-3) |
 
+**Elilya Octaviani**
+**122450009**
+**RC**
 
 ## Latar belakang masalah
 
 Pada era digital ini, banyak sekali kemajuan teknologi yang diciptakan maupun dibuat untuk menjadi lebih baik lagi. Hal ini menyebabkan banyaknya data yang dihasilkan sehingga banyak perusahaan terutama perusahaan industri yang membutuhkan orang yang ahli di bidang basis data untuk membantu dalam pengambilan keputusan yang berkaitan erat dengan pendapatan utama dari perusahaan tersebut. Tingginya permintaan pemrosesan data terhadap volume, kecepatan dan kebenaran data menjadi sebuah masalah, namun dengan adanya visualisasi data menjadi lebih efektif dan efisien dalam mengambil sebuah keputusan.
 
+## Cara membuat visualisasi menjadi efektif dan efisien
 Visualisasi data mengubah data abstrak menjadi data fisik seperti panjang, posisi, bentuk, warna dan sebagainya sehingga visualisasi data menjadi cara yang menarik untuk disajikan karena memberikan gambaran tentang data yang besar dan berorientasi secara visual yang lebih mudah untuk ditafsirkan hasil analisisnya. Adapun teknik yang digunakan dalam membuat visualisasi data menjadi lebih efektif dan efisien, yaitu :
 
 1.	Visualization specifications, menyediakan cara agar pengguna dapat menentukan yang diinginkan untuk menghasilkan visualisasi. Teknik ini terdiri dari 3 bagian spesifikasi visualisasi data, yaitu data (sumber informasi yang akan divisualisasikan), marks (merepresentasikan visual yang akan digunakan) dan mapping (memetakan data ke tanda yang sesuai).
