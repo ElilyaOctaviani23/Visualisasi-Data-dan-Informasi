@@ -24,7 +24,8 @@ Visualisasi data mengubah data abstrak menjadi data fisik seperti panjang, posis
 1.	Visualisasi data yang tepat, dengan membaca data dari database lalu menggunakan alat visualisasi untuk merender visualisasi.
 2.	Perkiraan visualisasi data
 3.	Visualisasi data progresif, membangun struktur dengan menggabungkan data yang berbeda
-rekomendasi visualisasi
+   
+## Rekomendasi visualisasi
 1.	Rekomendasi berbasis spesifikasi, memiliki 2 bagian yaitu spesifikasi tidak lengkap dimana spesifikasi ini tidak memerlukan input pengguna dan spesifikasi berbasis referensi dengan menghitung kombinasi dari variabel, transformasi dan jenis tanda maupun kode yang sama.
 2.	Rekomendasi berbasis perilaku, pada spesifikasi ini pengguna sebagai input.
 3.	Rekomendasi pengguna, dengan melihat histori dari pengguna sebagai input.
