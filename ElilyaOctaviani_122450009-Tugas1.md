@@ -6,9 +6,7 @@
 | **Tanggal Terbit** | 19 November 2019                                                                     |
 | **DOI**            | [https://doi.org/10.1007/s00778-019-00588-3](https://doi.org/10.1007/s00778-019-00588-3) |
 
-**Elilya Octaviani**
-**122450009**
-**RC**
+**Elilya Octaviani || 122450009 || RC**
 
 ## Latar belakang masalah
 
