@@ -4,7 +4,8 @@
 
 ## Good category visualizations
 
-![Alt Text](https://www.designyourway.net/diverse/2/wronginfo/59425686235.jpg)
+![Alt Text](God_1.jpg)
+![Alt Text](Good_2.jpg)
 
 ### Kedua visualisasi diatas termasuk dalam kategori visualisasi good karena:
 ### 1. **Strive for forms and functions**:
@@ -25,7 +26,8 @@
 
 ## Bad category visualizations
 
-![Alt Text](https://www.designyourway.net/diverse/2/wronginfo/59425686235.jpg)
+![Alt Text](Bad 1.jpg)
+![Alt Text](Bad_2.jpg)
 
 ### Kedua visualisasi diatas termasuk dalam kategori visualisasi bad karena:
 ### 1. **Strive for forms and functions**:
