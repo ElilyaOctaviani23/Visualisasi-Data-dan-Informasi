@@ -26,7 +26,7 @@
 
 ## Bad category visualizations
 
-![Alt Text](Bad 1.jpg)
+![Alt Text](Bad_1.jpg)
 ![Alt Text](Bad_2.jpg)
 
 ### Kedua visualisasi diatas termasuk dalam kategori visualisasi bad karena:
