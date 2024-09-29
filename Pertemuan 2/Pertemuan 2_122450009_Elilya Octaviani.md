@@ -22,7 +22,6 @@
 
 \
 \
-\
 
 ## Bad category visualizations
 
